@@ -1,0 +1,15 @@
+{
+  "name": "actividad_del_usuario_de_github",
+  "version": "1.0.0",
+  "description": "En este proyecto, crearás una interfaz de línea de comandos (CLI) sencilla para obtener la actividad reciente de un usuario de GitHub y mostrarla en la terminal. Este proyecto te ayudará a practicar tus habilidades de programación, incluyendo el trabajo con API, el manejo de datos JSON y la creación de una aplicación CLI sencilla.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "bin": {
+    "github-activity": "index.js"
+  },
+  "author": "Carlos Cantero",
+  "license": "ISC"
+}

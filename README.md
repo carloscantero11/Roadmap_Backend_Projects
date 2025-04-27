@@ -9,9 +9,11 @@ Cada proyecto incluye su propio `README.md` con instrucciones específicas, requ
 
 | Proyectos | Descripción | Nivel|
 |---------|-------------|-------------|
-| [📌 Rastreador de Tareas](./rastreador_de_tareas) | Aplicación CLI para realizar seguimiento de las tareas y administrar su lista de tareas pendientes. | **Principiante** |
+| [📚 Rastreador de Tareas](./rastreador_de_tareas) | Aplicación CLI para realizar seguimiento de las tareas y administrar su lista de tareas pendientes. | **Principiante** |
+| [👤 Actividad del usuario de GitHub](./actividad_del_usuario_de_gitHub) | Se utiliza la API de GitHub para obtener la actividad del usuario y mostrarla en la terminal. | **Principiante** |
 
 <br/>
+
 <br/>
 
 > ✏️ **Nota:** Esta lista se irá actualizando a medida que complete nuevos proyectos del roadmap.
